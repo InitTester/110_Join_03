@@ -39,3 +39,6 @@ public boolean findPasswd(String memberId, String email) {
 ```
 docker run -p 45432:5432 -e PGDATA=/var/lib/postgresql/pgdata -e POSTGRES_PASSWORD=admin_123 --restart unless-stopped --name postgres-sample -d jyeory/postgres-jdbc-01:0.0.5
 ```
+
+## UI
+![image](https://github.com/InitTester/110_Join_03/assets/143479869/3598fb2f-cbe4-4ed8-a862-90b3462ca49f)
